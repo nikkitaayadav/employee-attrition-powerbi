@@ -37,7 +37,6 @@ The objective was to identify patterns and factors driving attrition, build pred
 
 - `EmployeeAttritionAndPerformanceAnalysis.pbix` – The Power BI dashboard file
 - `data.csv` – Cleaned dataset (if license allows sharing)
-- `report.pdf` – Detailed methodology, insights, and recommendations
 
 ## Dashboard Link
 
